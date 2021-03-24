@@ -1,0 +1,6 @@
+
+State Machine - |my_fsm|p_state
+Name p_state.red p_state.green p_state.yellow 
+p_state.red 0 0 0 
+p_state.yellow 1 0 1 
+p_state.green 1 1 0 
